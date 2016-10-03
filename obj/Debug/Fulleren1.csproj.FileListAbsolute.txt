@@ -1,0 +1,6 @@
+c:\users\robin\documents\visual studio 2015\Projects\Fulleren1\Fulleren1\bin\Debug\Fulleren1.exe.config
+c:\users\robin\documents\visual studio 2015\Projects\Fulleren1\Fulleren1\bin\Debug\Fulleren1.exe
+c:\users\robin\documents\visual studio 2015\Projects\Fulleren1\Fulleren1\bin\Debug\Fulleren1.pdb
+c:\users\robin\documents\visual studio 2015\Projects\Fulleren1\Fulleren1\obj\Debug\Fulleren1.csprojResolveAssemblyReference.cache
+c:\users\robin\documents\visual studio 2015\Projects\Fulleren1\Fulleren1\obj\Debug\Fulleren1.exe
+c:\users\robin\documents\visual studio 2015\Projects\Fulleren1\Fulleren1\obj\Debug\Fulleren1.pdb
